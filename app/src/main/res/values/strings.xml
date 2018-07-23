@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaymentQrScan</string>
+    <string name="payHint">请输入金额，格式xx.xx,如1.25</string>
+    <string name="sortation">分类订单</string>
+    <string name="waitPay">支付待付款的订单</string>
+    <string name="refund">退款</string>
+</resources>
